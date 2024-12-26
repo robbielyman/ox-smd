@@ -1,0 +1,3 @@
+* ox-smd
+
+command-line utility for converting [[https://orgmode.org][org-mode]] files to [[https://zine-ssg.io/docs/supermd/][SuperMD]] for use with the [[https://zine-ssg.io/][Zine]] static site generator.
